@@ -1,3 +1,20 @@
+# ConverseLy
+A real time Chat App made using React Js and ChatEngine API.
+<br>
+<hr>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+<hr>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
